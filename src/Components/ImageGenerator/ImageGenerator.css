@@ -115,3 +115,21 @@
         max-width: 300px;
     }
 }
+
+.loading-bar {
+    width: 0px;
+    height: 8px;
+    background: #DE1B89;
+    border-radius: 4px;
+}
+
+.loading-text {
+   
+    font-size: 16px;
+    
+}
+.loading-bar-full {
+    width: 512px;
+    height: 8px;
+    background: #DE1B89;
+}
